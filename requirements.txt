@@ -1,0 +1,8 @@
+Flask
+pillow
+opencv-python
+easyocr
+pdf2image
+pyzbar
+numpy
+pandas
